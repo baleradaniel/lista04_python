@@ -1,0 +1,1 @@
+#peça ao usuario para inserir um numero que deseja a tabuada e em seguida exiba a tabuada do numero
